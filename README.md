@@ -30,7 +30,7 @@ Glovo Recreation est une application mobile Flutter inspirée des services de li
 ---
 
 ## 📸 Captures d'écran
-🚧 *Ajoutez ici des images de votre application en action !* 🚧
+🚧 *!* 🚧
 
 ---
 
@@ -69,9 +69,5 @@ Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou un
 
 ---
 
-## 📜 Licence
-Ce projet est sous licence MIT. 📄
 
----
-
-💙 **Développé avec passion par [Votre Nom]** 🚀
+💙 **Développé avec passion par [MOUTAWASSIT ABDELALI]** 🚀
